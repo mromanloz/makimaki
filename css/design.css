@@ -9,6 +9,6 @@ section{
     height: 20vh;
 }
 
-div{
-    color: lemonchiffon;
+div.box{
+    color: rgb(214, 212, 190);
 }
