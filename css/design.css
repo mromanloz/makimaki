@@ -19,7 +19,7 @@ h1{
     height: 40vh;
     width: 70vh;
     margin: auto auto;
-    background-color: thistle;
+    border: black;
 }
 
 .kid{
@@ -27,3 +27,25 @@ h1{
     width: 15vh;
     color: purple;
 }
+
+.mum2{
+    height: 15vh;
+    width: auto;
+    margin: auto auto;
+    background-color: lightpink;
+    
+   
+}
+
+.kid2{
+    height: auto;
+    width:auto;
+    margin: auto auto;
+    color: whitesmoke;
+
+}
+
+.mum2 :hover{
+    background-color: palegoldenrod;
+}
+
