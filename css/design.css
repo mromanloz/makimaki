@@ -8,3 +8,8 @@ section{
 .logo{
     height: 20vh;
 }
+
+h1{
+    size: 30vh;
+    stroke-opacity: initial;
+}
