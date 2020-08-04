@@ -18,3 +18,7 @@ section{
 .color1:hover {
     background-color:palegoldenrod ;
 }
+
+h1{
+    size: 90vh;
+}
