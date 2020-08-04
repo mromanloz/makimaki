@@ -10,5 +10,7 @@ section{
 }
 
 div.kiste{
-    background-color:lightsalmon
+    
+    background-position-x: unset;
+    background-color:rgb(163, 125, 199)
 }
