@@ -9,8 +9,12 @@ section{
     height: 20vh;
 }
 
-div.kiste{
+.color1{
     
     background-position-x: unset;
     background-color:rgb(189, 172, 204)
+}
+
+.color1:hover {
+    background-color:palegoldenrod ;
 }
