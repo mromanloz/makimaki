@@ -1,11 +1,8 @@
-section{  
-
+html, body{
+    font-family: 'Archivo Black', sans-serif;;
 }
 
 
-.kopf{
-    height:20vh ;
-}
 
 .logo{
     height: 20vh;

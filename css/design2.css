@@ -1,3 +1,4 @@
-.color{
-    background-color: black;
+html, body{
+    font-family: 'Archivo Black', sans-serif;;
+    font-size: 70vh;
 }
