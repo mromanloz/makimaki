@@ -42,7 +42,7 @@ h1{
 }
 .mum2 :hover{
     background-color: palegoldenrod;
-    position: fixed;
+    background-position: center;
 }
 .kid2{
     object-position: fixed;
