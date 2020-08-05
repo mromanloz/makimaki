@@ -45,7 +45,7 @@ h1{
     position: fixed;
 }
 .kid2{
-    position: fixed;
+    object-position: fixed;
     height: auto;
     width:auto;
     margin: auto auto;
