@@ -5,16 +5,16 @@ html, body{
 
 
 .logo{
-    height: 20vh;
+    height: 30vh;
 }
 
 h1{
-    size: 90vh;
+    size: 50vh;
 }
 
 .mum{
-    height: 40vh;
-    width: 70vh;
+    height: 20vh;
+    width: 20vh;
     margin: auto auto;
     background-color: whitesmoke;
     border-top: black;
@@ -26,29 +26,12 @@ h1{
 .kid{
     height: 15vh;
     width: 15vh;
-    color: purple;
-}
-
-.mum2{
-    height: 25vh;
-    width: 60vh;
     margin: auto auto;
-    background-color: lightpink;
     
-   
 }
-.mum2 :hover{
-    background-color: palegoldenrod;
-    background-position: center;
-}
-.kid2{
-    object-position: fixed;
-    height: auto;
-    width:auto;
-    margin: auto auto;
-    color: whitesmoke;
 
-}
+
+
 
 
 
