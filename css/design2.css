@@ -1,4 +1,5 @@
 .body{
     background-color: black;
-    background-size: cover;
+    background-position: unset;
+    background-size: auto;
 }
