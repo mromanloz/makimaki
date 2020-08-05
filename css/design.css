@@ -42,9 +42,10 @@ h1{
 }
 .mum2 :hover{
     background-color: palegoldenrod;
+    position: fixed;
 }
 .kid2{
-    position: static;
+    position: fixed;
     height: auto;
     width:auto;
     margin: auto auto;
