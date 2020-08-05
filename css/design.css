@@ -20,7 +20,10 @@ h1{
     width: 70vh;
     margin: auto auto;
     background-color: whitesmoke;
-    border: black;
+    border-top: black;
+    border-bottom: black;
+    border-right: black;
+    border-left: black;
 }
 
 .kid{
@@ -41,6 +44,7 @@ h1{
     background-color: palegoldenrod;
 }
 .kid2{
+    position: static;
     height: auto;
     width:auto;
     margin: auto auto;
